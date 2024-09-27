@@ -3,6 +3,7 @@
 #
 version: 1.0
 app:
+  java: 21
   # build id to deploy. if 'version' is commented out, the application is not deployed
   version: "c7823553-5318-41e3-ae53-7f2d396c141b"
   
